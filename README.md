@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarvesh</h1>
+<h1 align="center">Hi there👋, I'm Sarvesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding-gif" width="400px">
 
