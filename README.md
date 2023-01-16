@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on [Restraunt Website](https://loquacious-boba-c7bf98.netlify.app/)
 
 
-- 👨‍💻 I have completed resume template mini project [Resume template](https://joyful-tiramisu-5c8edf.netlify.app/)
+- 👨‍💻 I have completed mini project [Resume template](https://joyful-tiramisu-5c8edf.netlify.app/)
 
-- 👨‍💻 I have completed CSS grid gallery mini project [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
+- 👨‍💻 I have completed mini project [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
 
 - 💬 Ask me about **Frontend Deveopment**
 
