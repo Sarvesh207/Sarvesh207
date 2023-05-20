@@ -2,6 +2,7 @@
 <h3 align="center">Full stack web developer from India</h3>
 <img align = "right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding-gif" width="400px">
 
+
 - 🌱 I’m currently learning **JS &  React**
 
 - 🔭 I’m currently working on [Restraunt Website](https://loquacious-boba-c7bf98.netlify.app/)
@@ -12,6 +13,7 @@
 - 👨‍💻 I have completed mini project [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
 
 - 💬 Ask me about **Frontend Deveopment**
+- [![Sarvesh207's GitHub | Languages Over Time](https://stats.quine.sh/Sarvesh207/languages-over-time?theme=light)](https://quine.sh)
 
 - 📫 How to reach me **sarveshgaynar@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh207&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh207" /> </p>
