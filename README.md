@@ -5,10 +5,11 @@
 
 - 🌱 I’m Full Stack Developer**
 - 🔭 I’m currently working on my Web development skills.
-- 👯 I’m looking to collaborate on any open source projects using Javascript.
-- 😄 I love exploring and learning new skills as well as implement those in my projects.
-- 🔭 Here some Projects that I worked on while learning web Development please do check-out
-
+- 👯 I’m looking to collaborate on any open-source projects using Javascript.
+- 😄 I love exploring and learning new skills as well as implementing those in my projects.
+- 🔭 Here are some Projects that I worked on while learning web Development please do check-out
+- 
+- 👨‍💻 [BiteMates (food Ordering App)](https://bitemates-git-master-sarvesh207.vercel.app/)
 - 👨‍💻 [E~Store App](https://estore-application.netlify.app/)
 - 👨‍💻 [Restraunt Website](https://loquacious-boba-c7bf98.netlify.app/)
 - 👨‍💻 [Resume template](https://joyful-tiramisu-5c8edf.netlify.app/)
@@ -16,7 +17,7 @@
 - 👨‍💻 [My Dictionary App](https://joyful-tiramisu-5c8edf.netlify.app/)
 - 👨‍💻  Mini project [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
 
-- 💬 Ask me about **Frontend Deveopment**
+- 💬 Ask me about **Frontend Development**
 - [![Sarvesh207's GitHub | Languages Over Time](https://stats.quine.sh/Sarvesh207/languages-over-time?theme=light)](https://quine.sh)
 
 - 📫 How to reach me **sarveshgaynar@gmail.com**
