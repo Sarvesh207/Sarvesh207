@@ -3,10 +3,11 @@
 <img align = "right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding-gif" width="400px">
 
 
-- 🌱 I’m Full Stack Developer**
+- 🌱 I’m Full Stack Developer
+- 🔭 I am looking to join an organization where innovation and creativity are a part of everyday operations.
 - 🔭 I’m currently working on my Web development skills.
 - 👯 I’m looking to collaborate on any open-source projects using Javascript.
-- 😄 I love exploring and learning new skills as well as implementing those in my projects.
+- 😄 I love exploring and learning new skills, as well as implementing them in my projects.
 - 🔭 Here are some Projects that I worked on while learning web Development please do check-out
 - 
 - 👨‍💻 [BiteMates (food Ordering App)](https://bitemates-git-master-sarvesh207.vercel.app/)
