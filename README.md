@@ -4,7 +4,6 @@
 
 
 - 🌱 I work as a Full Stack Developer.
-- 🔭 I want to work for a company that values innovation and creativity in its daily operations.
 - 🔭 I'm currently honing my Web development abilities.
 - 👯 I'm interested in working on any open-source Javascript projects.
 - 😄 I enjoy discovering and acquiring new skills, as well as applying them to my projects.
@@ -19,7 +18,6 @@
 - 👨‍💻 [Restraunt Website](https://loquacious-boba-c7bf98.netlify.app/)
 - 👨‍💻 [Resume template](https://joyful-tiramisu-5c8edf.netlify.app/)
 - 👨‍💻 [My Dictionary App](https://joyful-tiramisu-5c8edf.netlify.app/)
--  👨‍💻
 - 👨‍💻  Mini project [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
 
 - 💬 Ask me about **Full Stack Web Development**
