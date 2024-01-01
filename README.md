@@ -10,8 +10,8 @@
 - 🔭 Here are some of the projects I worked on while learning web development. Please check it out.
 
  ###### React Projects
-- 👨‍💻 [E~Store App](https://estore-application.netlify.app/) || [Youtube](https://youtube-clone-sigma-five.vercel.app/) || 
-- 👨‍💻 [BiteMates (food order)](https://bitemates-git-master-sarvesh207.vercel.app/) || [Shop-X](https://shop-ex-cmrg-git-master-sarvesh207.vercel.app/) || [Red Bus Clone](https://redbus207.netlify.app/) ||  [DashBoard](https://chaabi-dashboard-git-master-sarvesh207.vercel.app/)
+- 👨‍💻 [E~Store App](https://estore-application.netlify.app/) || [Youtube](https://youtube-clone-sigma-five.vercel.app/) || [Red Bus Clone](https://redbus207.netlify.app/)
+- 👨‍💻 [BiteMates (food order)](https://bitemates-git-master-sarvesh207.vercel.app/) || [Shop-X](https://shop-ex-cmrg-git-master-sarvesh207.vercel.app/) ||  [DashBoard](https://chaabi-dashboard-git-master-sarvesh207.vercel.app/)
  ###### Plane HTML CSS Vanaila Javascript Projects 
 - 👨‍💻 [Restraunt Website](https://loquacious-boba-c7bf98.netlify.app/) || [Resume template](https://joyful-tiramisu-5c8edf.netlify.app/) 
 - 👨‍💻 [My Dictionary App](https://joyful-tiramisu-5c8edf.netlify.app/) || [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
