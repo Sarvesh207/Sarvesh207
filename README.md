@@ -1,24 +1,26 @@
 
 <h3 align="center">Hey 🙋‍♂️ I am Sarvesh I'm Full Stack Dev</h3>
-<img align = "right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding-gif" width="400px">
 
 
-- 🌱 I work as a Full Stack Developer.****
-- 🔭 I'm currently honing my Web development abilities.
-- 👯 I'm interested in working on any open-source Javascript projects.
-- 😄 I enjoy discovering and acquiring new skills, as well as applying them to my projects.
-- 🔭 Here are some of the projects I worked on while learning web development. Please check it out.
 
- ###### React Projects
+- 🌱 I work as a Full Stack Developer.
+- 🔭 I'm currently Learning Typesript & Next JS.
+- 👯 I’m looking to collaborate on:
+    Fullstack projects
+- 👇 Here are some of the projects I worked on while learning web development. Please check it out.
+
+ ##### React Projects
 - 👨‍💻 [E~Store App](https://estore-application.netlify.app/) || [Youtube](https://youtube-clone-sigma-five.vercel.app/) || [Red Bus Clone](https://redbus207.netlify.app/)
 - 👨‍💻 [BiteMates (food order)](https://bitemates-git-master-sarvesh207.vercel.app/) || [Shop-X](https://shop-ex-cmrg-git-master-sarvesh207.vercel.app/) ||  [DashBoard](https://chaabi-dashboard-git-master-sarvesh207.vercel.app/)
- ###### Plane HTML CSS Vanaila Javascript Projects 
+ ##### Plane HTML CSS Vanaila Javascript Projects 
 - 👨‍💻 [Restraunt Website](https://loquacious-boba-c7bf98.netlify.app/) || [Resume template](https://joyful-tiramisu-5c8edf.netlify.app/) 
 - 👨‍💻 [My Dictionary App](https://joyful-tiramisu-5c8edf.netlify.app/) || [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
 
 
 
-- 💬 Ask me about **Full Stack Web Development**
+- 💬 Ask me about **Full Satck Development**
+JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+
 - 📫 How to reach me **sarveshgaynar@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh207&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh207" /> </p>
 
