@@ -21,8 +21,6 @@
 - 👨‍💻  Mini project [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
 
 - 💬 Ask me about **Full Stack Web Development**
-- [![Sarvesh207's GitHub | Languages Over Time](https://stats.quine.sh/Sarvesh207/languages-over-time?theme=light)](https://quine.sh)
-
 - 📫 How to reach me **sarveshgaynar@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh207&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh207" /> </p>
 
@@ -44,3 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh207&" alt="sarvesh207" /></p>
 <a href="#"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sarvesh207&theme=xcode" /></a><br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sarvesh207&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
