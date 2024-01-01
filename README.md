@@ -24,8 +24,6 @@ JavaScript, React, Nextjs, Node.js, AWS, and any general software development qu
 - 📫 How to reach me **sarveshgaynar@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh207&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh207" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvesh207" alt="sarvesh207" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sarvesh-gaynar-04784b234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh gaynar" height="30" width="40" /></a>
@@ -52,3 +50,8 @@ JavaScript, React, Nextjs, Node.js, AWS, and any general software development qu
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Sarvesh207&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sarvesh207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=Sarvesh207&icon=0&color=0)](https://visitcount.itsvg.in)
