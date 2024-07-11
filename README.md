@@ -9,6 +9,8 @@
     Fullstack projects
 - 👇 Here are some of the projects I worked on while learning web development. Please check it out.
 
+### Portfolio :- [Portfolio](https://gaynarsarvesh.vercel.app/)
+
  ##### React Projects
 - 👨‍💻 [E~Store App](https://estore-application.netlify.app/) || [Youtube](https://youtube-clone-sigma-five.vercel.app/) || [Red Bus Clone](https://redbus207.netlify.app/)
 - 👨‍💻 [BiteMates (food order)](https://bitemates-git-master-sarvesh207.vercel.app/) || [Shop-X](https://shop-ex-cmrg-git-master-sarvesh207.vercel.app/) ||  [DashBoard](https://chaabi-dashboard-git-master-sarvesh207.vercel.app/)
@@ -28,6 +30,10 @@ JavaScript, React, Nextjs, Node.js, AWS, and any general software development qu
 <p align="left">
 <a href="https://www.linkedin.com/in/sarvesh-gaynar-04784b234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh gaynar" height="30" width="40" /></a>
 <a href="https://instagram.com/Sarvesh207_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvesh207_" height="30" width="40" /></a>
+<a href="https://twitter.com/gaynar_sarvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaynar_sarvesh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sarvesh_207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvesh_207" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sarvesh207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarvesh207" height="30" width="40" /></a>
+
 </p>
 
 # 💻 Tech Stack:
