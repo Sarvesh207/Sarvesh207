@@ -1,6 +1,5 @@
 
 
-<img src="https://res.cloudinary.com/dliuckrho/image/upload/v1720709821/ows0tljkmhuixelgjg9j.jpg" alt="Github_Baner"/>
 
 - 🌱 I work as a Full Stack Developer
 - 👯 I’m looking to collaborate on:
