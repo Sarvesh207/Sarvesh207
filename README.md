@@ -1,11 +1,7 @@
 
 
 
-- 🌱 I work as a Full Stack Developer
-- 👯 I’m looking to collaborate on:
-    Fullstack projects
-- 👇 Here are some of the projects I worked on while learning web development. Please check it out.
-
+- 🌱 I work as a Software Developer 
 ### Portfolio :- [Portfolio](https://gaynarsarvesh.vercel.app/)
 
  ##### React Projects
