@@ -32,7 +32,6 @@
 | 🎥 **[Streamify](https://github.com/Sarvesh207/Streamify)** | YouTube-style video platform with uploads, HLS playback, comments, likes, playlists, subscriptions and community posts | React · TypeScript · Vite · Node.js · Express · MongoDB · Cloudinary |
 | ✅ **[TaskFlow](https://github.com/Sarvesh207/TaskFlow)** | Project management app with teams, role-based permissions, task tracking and a ⌘K command palette | React 19 · Tailwind v4 · TanStack Query · Bun · Express 5 · PostgreSQL · Prisma |
 | 🤖 **[SmartApply](https://github.com/Sarvesh207/SmartApply)** · [live](https://smart-apply-web-seven.vercel.app) | AI job discovery platform with resume matching, automated scraping and queue-based workers | React · Express · BullMQ · Redis · Prisma · Playwright · Docker |
-| 🕸️ **[SkillGraph](https://github.com/Sarvesh207/SkillGraph)** · [live](https://frontend-psi-gold-19.vercel.app) | Graph-powered job recommendation engine linking candidates, skills, jobs and companies | React · React Flow · Node.js · Express · Neo4j (Cypher) |
 | 🎯 **[PrepWise](https://github.com/Sarvesh207/PrepWise)** | Interview prep platform to track interview rounds and run mock interviews with peers | React · Vite · Tailwind · Node.js · Express · MongoDB |
 
 ---
