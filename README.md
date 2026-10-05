@@ -32,7 +32,6 @@
 | 🎥 **[Streamify](https://github.com/Sarvesh207/Streamify)** | YouTube-style video platform with uploads, HLS playback, comments, likes, playlists, subscriptions and community posts | React · TypeScript · Vite · Node.js · Express · MongoDB · Cloudinary |
 | ✅ **[TaskFlow](https://github.com/Sarvesh207/TaskFlow)** | Project management app with teams, role-based permissions, task tracking and a ⌘K command palette | React 19 · Tailwind v4 · TanStack Query · Bun · Express 5 · PostgreSQL · Prisma |
 | 🤖 **[SmartApply](https://github.com/Sarvesh207/SmartApply)** · [live](https://smart-apply-web-seven.vercel.app) | AI job discovery platform with resume matching, automated scraping and queue-based workers | React · Express · BullMQ · Redis · Prisma · Playwright · Docker |
-| 🎯 **[PrepWise](https://github.com/Sarvesh207/PrepWise)** | Interview prep platform to track interview rounds and run mock interviews with peers | React · Vite · Tailwind · Node.js · Express · MongoDB |
 
 ---
 
@@ -89,9 +88,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sarvesh207&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarvesh207/Sarvesh207/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarvesh207/Sarvesh207/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sarvesh207/Sarvesh207/output/github-snake.svg" />
-</picture>
